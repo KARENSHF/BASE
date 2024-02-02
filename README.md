@@ -19,7 +19,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 sh -c "$(curl -sSfL https://release.solana.com/v1.17.9/install)"
 
-export PATH="/root/.local/share/solana/install/active_release/bin:$PATH"
+export PATH="/root/.local/share/solana/install/active_release/bin:$PATH"FTFH
 
 کد زیر براتون یک والت جدید میسازه پس اطلاعاتشو کپی و ذخیره کنید
 
